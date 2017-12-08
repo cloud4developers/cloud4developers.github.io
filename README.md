@@ -1,5 +1,5 @@
 ## Lab Workbook
-[Lab Workbook](http://ibm-blockchain-pot.github.io/pdf/Blockchain-PoT-Lab-Workbook-v1.5.1.pdf)
+[Lab Workbook](http://ibm-blockchain-pot.github.io/docs/Blockchain-PoT-Lab-Workbook-v1.5.1.pdf)
 
 
 ## Welcome to GitHub Pages
