@@ -1,3 +1,7 @@
+## Lab Workbook
+[Lab Workbook](http://ibm-blockchain-pot.github.io/pdf/Blockchain-PoT-Lab-Workbook-v1.5.1.pdf)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ibm-blockchain-pot/ibm-blockchain-pot.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
