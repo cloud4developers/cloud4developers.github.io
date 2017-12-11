@@ -1,16 +1,16 @@
 # Basking Ridge
 
 ## Images
-[Desktop 1](https://cloud.skytap.com/vms/04b0a2a845fb3d705375185d0e81744d/desktops)
-[Desktop 2]
-[Desktop 3]
-[Desktop 4]
-[Desktop 5]
-[Desktop 6]
-[Desktop 7]
-[Desktop 8]
-[Desktop 9]
-[Desktop 10]
+1.  [Desktop 1](https://cloud.skytap.com/vms/04b0a2a845fb3d705375185d0e81744d/desktops)
+1.  [Desktop 2]
+1.  [Desktop 3]
+1.  [Desktop 4]
+1.  [Desktop 5]
+1.  [Desktop 6]
+1.  [Desktop 7]
+1.  [Desktop 8]
+1.  [Desktop 9]
+1.  [Desktop 10]
 [Desktop 11]
 [Desktop 12]
 [Desktop 13]
