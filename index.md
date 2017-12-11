@@ -10,9 +10,10 @@ This event will enable you to understand blockchain concepts and understand how 
 This is aimed at business and technical representatives. The morning focuses more on business concepts while the afternoon is focused on concepts appropriate for developers and architects. It assumes no current knowledge of blockchain or its current uses. The day starts with a high-level business context and gently introduces concepts and how they work within Hyperledger Fabric and Hyperledger Composer. 
 
 ## Locations
-[Basking Ridge](http://ibm-blockchain-pot.github.io/baskingridge.html)
-[Boston](http://ibm-blockchain-pot.github.io/boston.html)
-
+- [Basking Ridge](http://ibm-blockchain-pot.github.io/baskingridge.html)
+<!-->
+- [Boston](http://ibm-blockchain-pot.github.io/boston.html)
+-->
 ## Connectivity
 To verify that you have connectivity to the images, please use the [connectivity checker](https://cloud.skytap.com/connectivity) and pick `US Central`
 
