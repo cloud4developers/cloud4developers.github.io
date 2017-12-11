@@ -11,9 +11,9 @@ This is aimed at business and technical representatives. The morning focuses mor
 
 ## Locations
 - [Basking Ridge](http://ibm-blockchain-pot.github.io/baskingridge.html)
-<!-->
+{% comment %}
 - [Boston](http://ibm-blockchain-pot.github.io/boston.html)
--->
+{% endcomment %}
 ## Connectivity
 To verify that you have connectivity to the images, please use the [connectivity checker](https://cloud.skytap.com/connectivity) and pick `US Central`
 
