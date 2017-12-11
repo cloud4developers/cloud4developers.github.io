@@ -11,11 +11,14 @@ This is aimed at business and technical representatives. The morning focuses mor
 
 ## Locations
 [Basking Ridge](http://ibm-blockchain-pot.github.io/baskingridge.html)
+[Boston](http://ibm-blockchain-pot.github.io/boston.html)
 
+## Connectivity
+To verify that you have connectivity to the images, please use the [connectivity checker](https://cloud.skytap.com/connectivity) and pick `US Central`
 
-
+You can also improve performance by dropping the image quality using the instructions [here](https://help.skytap.com/improving-browser-client-performance.html)
 
 ## Lab Workbook
-[Lab Workbook](http://ibm-blockchain-pot.github.io/docs/Blockchain-PoT-Lab-Workbook-v1.5.1.pdf)
+If you don't have a copy of the printed materials you can access the [Lab Workbook](http://ibm-blockchain-pot.github.io/docs/Blockchain-PoT-Lab-Workbook-v1.5.1.pdf) online.
 
 
