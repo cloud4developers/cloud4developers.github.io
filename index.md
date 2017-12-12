@@ -19,6 +19,15 @@ To verify that you have connectivity to the images, please use the [connectivity
 
 You can also improve performance by dropping the image quality using the instructions [here](https://help.skytap.com/improving-browser-client-performance.html)
 
+## Presentations
+- [IBM Blockchain Point of View](http://ibm-blockchain-pot.github.io/docs/UHG-IBM-Blockchain-POV-Marie-Wieck.pdf)
+- [Blockchain Explained](http://ibm-blockchain-pot.github.io/docs/HC-Blockchain-Explained-V5.02.pdf)
+- [Vehicle Lifecycle Demo Intro](http://ibm-blockchain-pot.github.io/docs/Vehicle-Lifecycle-Demo-Intro.pdf)
+- [Blockchain Composed](http://ibm-blockchain-pot.github.io/docs/Blockchain-Composed-V2.02.pdf)
+- [Blockchain Architected](http://ibm-blockchain-pot.github.io/docs/Blockchain-Architected-V201.pdf)
+- [Blockchain Explored](http://ibm-blockchain-pot.github.io/docs/Blockchain-Explored-v4.02.pdf)
+- [IBM Blockchain Platform Explained](http://ibm-blockchain-pot.github.io/docs/IBM-Blockchain-Platform-Explained-V1.01.pdf)
+
 ## Lab Workbook
 If you don't have a copy of the printed materials you can access the [Lab Workbook](http://ibm-blockchain-pot.github.io/docs/Blockchain-PoT-Lab-Workbook-v1.5.1.pdf) online.
 
