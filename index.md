@@ -1,4 +1,6 @@
-
+---
+title: IBM Blockchain Proof of Technology
+---
 
 ## Introduction
 Blockchain is a shared, replicated ledger that underpins technology such as Bitcoin. Blockchain's reach is wider than cryptocurrency however, as it sets out to provide the foundation for a new generation of transactional applications that establish trust and transparency, while streamlining business processes. Are you curious about blockchain and what it can do for your business? This one day training event gives an overview of blockchain and why it is important. The day progresses into a deep dive on the Linux Foundation Hyperledger Composer, Hyperledger Fabric, and IBM Blockchain Platform on the IBM  cloud, and how to develop business networks and applications that access the Hyperledger Fabric. Plenty of time is set aside for Q&A.
