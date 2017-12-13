@@ -13,7 +13,7 @@ This is aimed at business and technical representatives. The morning focuses mor
 
 ## Locations (no collection)
 {% for page in pages %}
-    {% if page.location == 'true' %}
+    {% if page.flag == 'location' %}
     <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
     {% endif %}
 {% endfor %}

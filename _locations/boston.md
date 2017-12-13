@@ -1,6 +1,6 @@
 ---
 title: Boston
-location: true
+flag: location
 ---
 # Boston
 
