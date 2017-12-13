@@ -10,8 +10,8 @@ This event will enable you to understand blockchain concepts and understand how 
 This is aimed at business and technical representatives. The morning focuses more on business concepts while the afternoon is focused on concepts appropriate for developers and architects. It assumes no current knowledge of blockchain or its current uses. The day starts with a high-level business context and gently introduces concepts and how they work within Hyperledger Fabric and Hyperledger Composer. 
 
 ## Locations
-- [Basking Ridge](http://ibm-blockchain-pot.github.io/baskingridge.html)
 {% comment %}
+- [Basking Ridge](http://ibm-blockchain-pot.github.io/baskingridge.html)
 - [Boston](http://ibm-blockchain-pot.github.io/boston.html)
 {% endcomment %}
 ## Connectivity
@@ -27,6 +27,21 @@ You can also improve performance by dropping the image quality using the instruc
 - [Blockchain Architected](http://ibm-blockchain-pot.github.io/docs/Blockchain-Architected-V2.01.pdf)
 - [Blockchain Explored](http://ibm-blockchain-pot.github.io/docs/Blockchain-Explored-v4.02.pdf)
 - [IBM Blockchain Platform Explained](http://ibm-blockchain-pot.github.io/docs/IBM-Blockchain-Platform-Explained-V1.01.pdf)
+
+## Helpful Links
+### General
+- [IBM Blockchain](http://www.ibm.com/blockchain)
+- [What is Blockchain](https://www.ibm.com/blockchain/what-is-blockchain.html)
+- [IBM and Hyperledger](https://www.ibm.com/blockchain/hyperledger.html)
+- [Hyperledger Composer](https://hyperledger.github.io/composer/)
+- [Hyperledger Composer Tutorials](https://hyperledger.github.io/composer/tutorials/tutorials.html)
+- [Composer Playground](http://composer-playground.mybluemix.net)
+### For Developers
+- [Hyperledger Composer Developer Tutorial](https://hyperledger.github.io/composer/tutorials/developer-guide.html)
+- [IBM Blockchain Developer Sandbox](https://developer.ibm.com/blockchain/sandbox/)
+- [IBM Blockchain Developer Center](https://developer.ibm.com/blockchain/)
+- [DeveloperWorks Tutorial](https://www.ibm.com/developerworks/cloud/library/cl-model-test-your-blockchain-network-with-hyperledger-composer-playground/index.html?social_post=1136571756&fst=Learn)
+- [Hyperledger Community](https://hyperledger.github.io/composer/support/support-index.html)
 
 ## Lab Workbook
 If you don't have a copy of the printed materials you can access the [Lab Workbook](http://ibm-blockchain-pot.github.io/docs/Blockchain-PoT-Lab-Workbook-v1.5.1.pdf) online.
