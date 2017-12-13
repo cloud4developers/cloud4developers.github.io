@@ -12,11 +12,7 @@ This event will enable you to understand blockchain concepts and understand how 
 This is aimed at business and technical representatives. The morning focuses more on business concepts while the afternoon is focused on concepts appropriate for developers and architects. It assumes no current knowledge of blockchain or its current uses. The day starts with a high-level business context and gently introduces concepts and how they work within Hyperledger Fabric and Hyperledger Composer. 
 
 ## Locations (no collection)
-{% for page in pages %}
-    {% if page.flag == 'location' %}
-    <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
-    {% endif %}
-{% endfor %}
+
 
 {% comment %}
 - [Basking Ridge](http://ibm-blockchain-pot.github.io/baskingridge.html)
