@@ -1,5 +1,2 @@
 title: IBM Blockchain Proof of Technology
 theme: jekyll-theme-slate
-collections:
-- locations:
-  output: true
