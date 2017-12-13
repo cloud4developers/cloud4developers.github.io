@@ -13,7 +13,7 @@ This is aimed at business and technical representatives. The morning focuses mor
 
 ## Locations (testing5)
 {% for page in site.pages %}
-    {% if page.location == 'true' %}
+    {% if page.location == true %}
     <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
     {% endif %}
 {% endfor %}
