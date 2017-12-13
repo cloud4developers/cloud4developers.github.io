@@ -1,6 +1,5 @@
 ---
 title: Basking Ridge
-flag: location
 ---
 # Basking Ridge
 
