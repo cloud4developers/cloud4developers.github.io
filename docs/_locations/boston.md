@@ -1,3 +1,6 @@
+---
+title: Boston
+---
 # Boston
 
 ## Images

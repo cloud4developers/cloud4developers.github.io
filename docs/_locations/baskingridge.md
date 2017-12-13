@@ -1,3 +1,6 @@
+---
+title: Basking Ridge
+---
 # Basking Ridge
 
 ## Images
