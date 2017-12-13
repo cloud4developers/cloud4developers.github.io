@@ -1,6 +1,7 @@
 ---
 title: Boston
 location: true
+visible: true
 ---
 # Boston
 
