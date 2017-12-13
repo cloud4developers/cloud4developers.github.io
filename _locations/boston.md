@@ -1,5 +1,6 @@
 ---
 title: Boston
+location: true
 ---
 # Boston
 
