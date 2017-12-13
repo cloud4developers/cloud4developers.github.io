@@ -36,9 +36,11 @@ You can also improve performance by dropping the image quality using the instruc
 - [Hyperledger Composer](https://hyperledger.github.io/composer/)
 - [Hyperledger Composer Tutorials](https://hyperledger.github.io/composer/tutorials/tutorials.html)
 - [Composer Playground](http://composer-playground.mybluemix.net)
+
 ### For Developers
-- [Hyperledger Composer Developer Tutorial](https://hyperledger.github.io/composer/tutorials/developer-guide.html)
+- [Hyperledger Composer Developer Tutorial](https://hyperledger.github.io/composer/tutorials/developer-tutorial.html)
 - [IBM Blockchain Developer Sandbox](https://developer.ibm.com/blockchain/sandbox/)
+- [Blockchain on LinuxOne mainframe](https://developer.ibm.com/code/patterns/run-blockchain-technology-on-a-linux-mainframe/)
 - [IBM Blockchain Developer Center](https://developer.ibm.com/blockchain/)
 - [DeveloperWorks Tutorial](https://www.ibm.com/developerworks/cloud/library/cl-model-test-your-blockchain-network-with-hyperledger-composer-playground/index.html?social_post=1136571756&fst=Learn)
 - [Hyperledger Community](https://hyperledger.github.io/composer/support/support-index.html)
