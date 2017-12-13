@@ -1,5 +1,6 @@
 ---
 title: Basking Ridge
+location: true
 ---
 # Basking Ridge
 
