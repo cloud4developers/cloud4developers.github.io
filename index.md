@@ -54,6 +54,7 @@ You can also improve performance by dropping the image quality using the instruc
 - [IBM Blockchain Developer Center](https://developer.ibm.com/blockchain/)
 - [DeveloperWorks Tutorial](https://www.ibm.com/developerworks/cloud/library/cl-model-test-your-blockchain-network-with-hyperledger-composer-playground/index.html?social_post=1136571756&fst=Learn)
 - [Hyperledger Community](https://hyperledger.github.io/composer/support/support-index.html)
+- [Blockchain Essentials Badge](https://developer.ibm.com/courses/all/blockchain-essentials/)
 
 ## Lab Workbook
 If you don't have a copy of the printed materials you can access the [Lab Workbook](http://ibm-blockchain-pot.github.io/docs/Blockchain-PoT-Lab-Workbook-v1.5.1.pdf) online.
