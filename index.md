@@ -12,7 +12,7 @@ This event will enable you to understand blockchain concepts and understand how 
 This is aimed at business and technical representatives. The morning focuses more on business concepts while the afternoon is focused on concepts appropriate for developers and architects. It assumes no current knowledge of blockchain or its current uses. The day starts with a high-level business context and gently introduces concepts and how they work within Hyperledger Fabric and Hyperledger Composer. 
 
 ## Contacts
-- Dave Wakeman [dwakeman@us.ibm.com](mailto:dwakeman@us.ibm.com?subject=IBM%20Blockchain%20Proof%20of%20Technology)
+- Dave Wakeman | [dwakeman@us.ibm.com](mailto:dwakeman@us.ibm.com?subject=IBM%20Blockchain%20Proof%20of%20Technology)
 
 ## Locations
 <ul>
@@ -58,6 +58,11 @@ You can also improve performance by dropping the image quality using the instruc
 - [DeveloperWorks Tutorial](https://www.ibm.com/developerworks/cloud/library/cl-model-test-your-blockchain-network-with-hyperledger-composer-playground/index.html?social_post=1136571756&fst=Learn)
 - [Hyperledger Community](https://hyperledger.github.io/composer/support/support-index.html)
 - [Blockchain Essentials Badge](https://developer.ibm.com/courses/all/blockchain-essentials/)
+
+### Other interesting stuff
+- [Vehicle Lifecycle Demo](https://www.youtube.com/watch?v=cNvOQp8r0xo&t=244)
+- [Make your blockchain smart contracts smarter with business rules](https://www.ibm.com/developerworks/library/mw-1708-mery-blockchain/1708-mery.html)
+
 
 ## Lab Workbook
 If you don't have a copy of the printed materials you can access the [Lab Workbook](http://ibm-blockchain-pot.github.io/docs/Blockchain-PoT-Lab-Workbook-v1.5.1.pdf) online.
