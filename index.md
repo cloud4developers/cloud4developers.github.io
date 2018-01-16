@@ -33,7 +33,6 @@ To verify that you have connectivity to the images, please use the [connectivity
 You can also improve performance by dropping the image quality using the instructions [here](https://help.skytap.com/improving-browser-client-performance.html)
 
 ## Presentations
-- [IBM Blockchain Point of View](http://ibm-blockchain-pot.github.io/docs/UHG-IBM-Blockchain-POV-Marie-Wieck.pdf)
 - [Blockchain Explained](http://ibm-blockchain-pot.github.io/docs/HC-Blockchain-Explained-V5.02.pdf)
 - [Vehicle Lifecycle Demo Intro](http://ibm-blockchain-pot.github.io/docs/Vehicle-Lifecycle-Demo-Intro.pdf)
 - [Blockchain Composed](http://ibm-blockchain-pot.github.io/docs/Blockchain-Composed-V2.02.pdf)
