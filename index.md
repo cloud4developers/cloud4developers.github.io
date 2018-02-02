@@ -28,6 +28,7 @@ To verify that you have connectivity to the images, please use the [connectivity
 
 You can also improve performance by dropping the image quality using the instructions [here](https://help.skytap.com/improving-browser-client-performance.html)
 
+{% comment %}
 ## Presentations
 - [Blockchain Explained](http://ibm-blockchain-pot.github.io/docs/HC-Blockchain-Explained-V5.02.pdf)
 - [Vehicle Lifecycle Demo Intro](http://ibm-blockchain-pot.github.io/docs/Vehicle-Lifecycle-Demo-Intro.pdf)
@@ -35,7 +36,7 @@ You can also improve performance by dropping the image quality using the instruc
 - [Blockchain Architected](http://ibm-blockchain-pot.github.io/docs/Blockchain-Architected-V2.02.pdf)
 - [Blockchain Explored](http://ibm-blockchain-pot.github.io/docs/Blockchain-Explored-v4.02.pdf)
 - [IBM Blockchain Platform Explained](http://ibm-blockchain-pot.github.io/docs/IBM-Blockchain-Platform-Explained-V1.01.pdf)
-
+{% endcomment %}
 ## Helpful Links
 ### General
 - [IBM Blockchain](http://www.ibm.com/blockchain)
@@ -51,6 +52,7 @@ You can also improve performance by dropping the image quality using the instruc
 - [IBM Blockchain Developer Sandbox](https://developer.ibm.com/blockchain/sandbox/)
 - [Blockchain on LinuxOne mainframe](https://developer.ibm.com/code/patterns/run-blockchain-technology-on-a-linux-mainframe/)
 - [IBM Blockchain Developer Center](https://developer.ibm.com/blockchain/)
+- [Blockchain Innovators Series on DeveloperWorks TV](https://developer.ibm.com/tv/blockchain-innovators/)
 - [DeveloperWorks Tutorial](https://www.ibm.com/developerworks/cloud/library/cl-model-test-your-blockchain-network-with-hyperledger-composer-playground/index.html?social_post=1136571756&fst=Learn)
 - [Hyperledger Community](https://hyperledger.github.io/composer/support/support-index.html)
 - [Blockchain Essentials Badge](https://developer.ibm.com/courses/all/blockchain-essentials/)
