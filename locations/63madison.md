@@ -1,7 +1,7 @@
 ---
 title: New York (63 Madison Ave)
 location: true
-visible: true
+visible: false
 ---
 # {{ page.title }}
 

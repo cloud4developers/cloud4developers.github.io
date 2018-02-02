@@ -1,5 +1,5 @@
 ---
-title: IBM Blockchain Proof of Technology
+title: IBM Blockchain Workshop
 ---
 
 ## Introduction
@@ -23,10 +23,6 @@ This is aimed at business and technical representatives. The morning focuses mor
 {% endfor %}
 </ul>
 
-{% comment %}
-- [Basking Ridge](http://ibm-blockchain-pot.github.io/baskingridge.html)
-- [Boston](http://ibm-blockchain-pot.github.io/boston.html)
-{% endcomment %}
 ## Connectivity
 To verify that you have connectivity to the images, please use the [connectivity checker](https://cloud.skytap.com/connectivity) and pick `US Central`
 
@@ -35,8 +31,8 @@ You can also improve performance by dropping the image quality using the instruc
 ## Presentations
 - [Blockchain Explained](http://ibm-blockchain-pot.github.io/docs/HC-Blockchain-Explained-V5.02.pdf)
 - [Vehicle Lifecycle Demo Intro](http://ibm-blockchain-pot.github.io/docs/Vehicle-Lifecycle-Demo-Intro.pdf)
-- [Blockchain Composed](http://ibm-blockchain-pot.github.io/docs/Blockchain-Composed-V2.02.pdf)
-- [Blockchain Architected](http://ibm-blockchain-pot.github.io/docs/Blockchain-Architected-V2.01.pdf)
+- [Blockchain Composed](http://ibm-blockchain-pot.github.io/docs/Blockchain-Composed-V2.07.pdf)
+- [Blockchain Architected](http://ibm-blockchain-pot.github.io/docs/Blockchain-Architected-V2.02.pdf)
 - [Blockchain Explored](http://ibm-blockchain-pot.github.io/docs/Blockchain-Explored-v4.02.pdf)
 - [IBM Blockchain Platform Explained](http://ibm-blockchain-pot.github.io/docs/IBM-Blockchain-Platform-Explained-V1.01.pdf)
 
@@ -48,6 +44,7 @@ You can also improve performance by dropping the image quality using the instruc
 - [Hyperledger Composer](https://hyperledger.github.io/composer/)
 - [Hyperledger Composer Tutorials](https://hyperledger.github.io/composer/tutorials/tutorials.html)
 - [Composer Playground](http://composer-playground.mybluemix.net)
+- [Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains](https://arxiv.org/abs/1801.10228v1)
 
 ### For Developers
 - [Hyperledger Composer Developer Tutorial](https://hyperledger.github.io/composer/tutorials/developer-tutorial.html)
@@ -64,6 +61,6 @@ You can also improve performance by dropping the image quality using the instruc
 
 
 ## Lab Workbook
-If you don't have a copy of the printed materials you can access the [Lab Workbook](http://ibm-blockchain-pot.github.io/docs/Blockchain-PoT-Lab-Workbook-v1.5.1.pdf) online.
+If you don't have a copy of the printed materials you can access the [Lab Workbook](http://ibm-blockchain-pot.github.io/docs/Blockchain-PoT-Lab-Workbook-v1.6.0.pdf) online.
 
 
