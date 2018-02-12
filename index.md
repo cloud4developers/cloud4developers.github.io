@@ -28,15 +28,15 @@ To verify that you have connectivity to the images, please use the [connectivity
 
 You can also improve performance by dropping the image quality using the instructions [here](https://help.skytap.com/improving-browser-client-performance.html)
 
-{% comment %}
+
 ## Presentations
-- [Blockchain Explained](http://ibm-blockchain-pot.github.io/docs/HC-Blockchain-Explained-V5.02.pdf)
+- [Blockchain Explained](http://ibm-blockchain-pot.github.io/docs/Blockchain-Explained-V5.04.pdf)
 - [Vehicle Lifecycle Demo Intro](http://ibm-blockchain-pot.github.io/docs/Vehicle-Lifecycle-Demo-Intro.pdf)
 - [Blockchain Composed](http://ibm-blockchain-pot.github.io/docs/Blockchain-Composed-V2.07.pdf)
 - [Blockchain Architected](http://ibm-blockchain-pot.github.io/docs/Blockchain-Architected-V2.02.pdf)
 - [Blockchain Explored](http://ibm-blockchain-pot.github.io/docs/Blockchain-Explored-v4.02.pdf)
-- [IBM Blockchain Platform Explained](http://ibm-blockchain-pot.github.io/docs/IBM-Blockchain-Platform-Explained-V1.01.pdf)
-{% endcomment %}
+- [IBM Blockchain Platform Explained](http://ibm-blockchain-pot.github.io/docs/IBM-Blockchain-Platform-Explained-V1.07.pdf)
+
 ## Helpful Links
 ### General
 - [IBM Blockchain](http://www.ibm.com/blockchain)
