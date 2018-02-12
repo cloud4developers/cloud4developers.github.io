@@ -30,6 +30,7 @@ You can also improve performance by dropping the image quality using the instruc
 
 
 ## Presentations
+- [IBM Blockchain Point of View](http://ibm-blockchain-pot.github.io/docs/IBM-Blockchain-PoV.pdf)
 - [Blockchain Explained](http://ibm-blockchain-pot.github.io/docs/Blockchain-Explained-V5.04.pdf)
 - [Vehicle Lifecycle Demo Intro](http://ibm-blockchain-pot.github.io/docs/Vehicle-Lifecycle-Demo-Intro.pdf)
 - [Blockchain Composed](http://ibm-blockchain-pot.github.io/docs/Blockchain-Composed-V2.07.pdf)
@@ -45,6 +46,7 @@ You can also improve performance by dropping the image quality using the instruc
 - [Hyperledger Composer](https://hyperledger.github.io/composer/)
 - [Hyperledger Composer Tutorials](https://hyperledger.github.io/composer/tutorials/tutorials.html)
 - [Composer Playground](http://composer-playground.mybluemix.net)
+- [IBM Blockchain - Composer - Vehicle Lifecycle Demo](https://bluedemos.com/show/159)
 - [Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains](https://arxiv.org/abs/1801.10228v1)
 
 ### For Developers
