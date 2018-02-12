@@ -1,7 +1,7 @@
 ---
 title: Jacksonville
 location: true
-visible: true
+visible: false
 ---
 # Jacksonville
 
