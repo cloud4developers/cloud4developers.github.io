@@ -3,13 +3,32 @@ title: IBM Blockchain Workshop
 ---
 
 ## Introduction
-Blockchain is a shared, replicated ledger that underpins technology such as Bitcoin. Blockchain's reach is wider than cryptocurrency however, as it sets out to provide the foundation for a new generation of transactional applications that establish trust and transparency, while streamlining business processes. Are you curious about blockchain and what it can do for your business? This one day training event gives an overview of blockchain and why it is important. The day progresses into a deep dive on the Linux Foundation Hyperledger Composer, Hyperledger Fabric, and IBM Blockchain Platform on the IBM  cloud, and how to develop business networks and applications that access the Hyperledger Fabric. Plenty of time is set aside for Q&A.
+As a developer I have collected a lot of resources to help me write code, understand new technologies like Watson and Blockchain and learn how to leverage the capabilities of the IBM Cloud Platform to develop cloud-native applications.  From the characteristics of a 12factor app, open source technologies like docker and kubernetes, and patterns like microservices architecture, I've found excellent resources on all of these topics!
 
-## Objective
-This event will enable you to understand blockchain concepts and understand how to model business networks that include the assets, participants, transactions, and access control lists. The event focuses heavily on the use of Hyperledger Composer providing that abstraction layer to reduce the time to market for blockchain implementations. Concepts introduced during presentations are reinforced with a combination of live demonstrations and hands-on lab exercises. The goal of the event is to enable attendees to become familiar with the concepts, operation, and benefits of a blockchain, and IBM’s value proposition and the resources available to you.
+## General
+- [IBM Code](https://developer.ibm.com/code/)
+- [IBM Code - Patterns](https://developer.ibm.com/code/patterns/)
+- [Kubernetes Patterns](https://developer.ibm.com/code/technologies/container-orchestration/)
 
-## Audience
-This is aimed at business and technical representatives. The morning focuses more on business concepts while the afternoon is focused on concepts appropriate for developers and architects. It assumes no current knowledge of blockchain or its current uses. The day starts with a high-level business context and gently introduces concepts and how they work within Hyperledger Fabric and Hyperledger Composer. 
+
+## DevOps
+### Toolchains
+- [Tutorial](https://www.ibm.com/cloud/garage/category/courses)
+ 
+### Continuous Delivery
+- [Continous Delivery](https://www.ibm.com/cloud/continuous-delivery)
+
+
+## Series for Developers
+- [developerWorks TV](https://developer.ibm.com/tv/)
+- [IBM Code Dojo](https://developer.ibm.com/tv/ibm-code-dojo/)
+- [Microservices TV](https://developer.ibm.com/tv/category/microservices/)
+- [The New Builders](https://developer.ibm.com/tv/builders/)
+- [DevOps TV](https://developer.ibm.com/tv/devops/)
+- [Mailbag](https://developer.ibm.com/tv/dwmailbag/)
+- [Technologies & Tools](https://developer.ibm.com/tv/topics/)
+
+
 
 ## Contacts
 - Dave Wakeman [dwakeman@us.ibm.com](mailto:dwakeman@us.ibm.com?subject=IBM%20Blockchain%20Proof%20of%20Technology)
@@ -23,13 +42,10 @@ This is aimed at business and technical representatives. The morning focuses mor
 {% endfor %}
 </ul>
 
-## Connectivity
-To verify that you have connectivity to the images, please use the [connectivity checker](https://cloud.skytap.com/connectivity) and pick `US Central`
 
-You can also improve performance by dropping the image quality using the instructions [here](https://help.skytap.com/improving-browser-client-performance.html)
+## Blockchain
 
-
-## Presentations
+### Presentations
 - [IBM Blockchain Point of View](http://ibm-blockchain-pot.github.io/docs/IBM-Blockchain-PoV.pdf)
 - [Blockchain Explained](http://ibm-blockchain-pot.github.io/docs/Blockchain-Explained-V5.04.pdf)
 - [Vehicle Lifecycle Demo Intro](http://ibm-blockchain-pot.github.io/docs/Vehicle-Lifecycle-Demo-Intro.pdf)
@@ -38,8 +54,8 @@ You can also improve performance by dropping the image quality using the instruc
 - [Blockchain Explored](http://ibm-blockchain-pot.github.io/docs/Blockchain-Explored-v4.02.pdf)
 - [IBM Blockchain Platform Explained](http://ibm-blockchain-pot.github.io/docs/IBM-Blockchain-Platform-Explained-V1.07.pdf)
 
-## Helpful Links
-### General
+### Helpful Links
+#### General
 - [IBM Blockchain](http://www.ibm.com/blockchain)
 - [What is Blockchain](https://www.ibm.com/blockchain/what-is-blockchain.html)
 - [IBM and Hyperledger](https://www.ibm.com/blockchain/hyperledger.html)
@@ -49,7 +65,7 @@ You can also improve performance by dropping the image quality using the instruc
 - [IBM Blockchain - Composer - Vehicle Lifecycle Demo](https://bluedemos.com/show/159)
 - [Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains](https://arxiv.org/abs/1801.10228v1)
 
-### For Developers
+#### For Developers
 - [Hyperledger Composer Developer Tutorial](https://hyperledger.github.io/composer/tutorials/developer-tutorial.html)
 - [IBM Blockchain Developer Sandbox](https://developer.ibm.com/blockchain/sandbox/)
 - [Blockchain on LinuxOne mainframe](https://developer.ibm.com/code/patterns/run-blockchain-technology-on-a-linux-mainframe/)
@@ -59,12 +75,10 @@ You can also improve performance by dropping the image quality using the instruc
 - [Hyperledger Community](https://hyperledger.github.io/composer/support/support-index.html)
 - [Blockchain Essentials Badge](https://developer.ibm.com/courses/all/blockchain-essentials/)
 
-### Other interesting stuff
+#### Other interesting stuff
 - [Vehicle Lifecycle Demo](https://www.youtube.com/watch?v=cNvOQp8r0xo&t=244)
 - [Make your blockchain smart contracts smarter with business rules](https://www.ibm.com/developerworks/library/mw-1708-mery-blockchain/1708-mery.html)
 
 
-## Lab Workbook
-If you don't have a copy of the printed materials you can access the [Lab Workbook](http://ibm-blockchain-pot.github.io/docs/Blockchain-PoT-Lab-Workbook-v1.6.0.pdf) online.
 
 
