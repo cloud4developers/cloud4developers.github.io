@@ -5,10 +5,19 @@ title: IBM Blockchain Workshop
 ## Introduction
 As a developer I have collected a lot of resources to help me write code, understand new technologies like Watson and Blockchain and learn how to leverage the capabilities of the IBM Cloud Platform to develop cloud-native applications.  From the characteristics of a 12factor app, open source technologies like docker and kubernetes, and patterns like microservices architecture, I've found excellent resources on all of these topics!
 
+## Contacts
+- Dave Wakeman [dwakeman@us.ibm.com](mailto:dwakeman@us.ibm.com?subject=IBM%20Blockchain%20Proof%20of%20Technology)
+
+
 ## General
 - [IBM Code](https://developer.ibm.com/code/)
 - [IBM Code - Patterns](https://developer.ibm.com/code/patterns/)
 - [Kubernetes Patterns](https://developer.ibm.com/code/technologies/container-orchestration/)
+
+
+## Demos
+- [IBM Cloud Healthcare and Life Sciences Demonstration](https://bluedemos.com/show/133)
+- [IBM Cloud Featured Samples](https://ibm-cloud.github.io/#!/)
 
 
 ## DevOps
@@ -29,10 +38,11 @@ As a developer I have collected a lot of resources to help me write code, unders
 - [Technologies & Tools](https://developer.ibm.com/tv/topics/)
 
 
+## Watson
 
-## Contacts
-- Dave Wakeman [dwakeman@us.ibm.com](mailto:dwakeman@us.ibm.com?subject=IBM%20Blockchain%20Proof%20of%20Technology)
+- [Watson Accelerators](https://watsonaccelerators.mybluemix.net/portal/welcome)
 
+{$ comment %}
 ## Locations
 <ul>
 {% for page in site.pages %}
@@ -41,7 +51,7 @@ As a developer I have collected a lot of resources to help me write code, unders
     {% endif %}
 {% endfor %}
 </ul>
-
+{% endcomment %}
 
 ## Blockchain
 
