@@ -42,7 +42,7 @@ As a developer I have collected a lot of resources to help me write code, unders
 
 - [Watson Accelerators](https://watsonaccelerators.mybluemix.net/portal/welcome)
 
-{$ comment %}
+{% comment %}
 ## Locations
 <ul>
 {% for page in site.pages %}
