@@ -45,6 +45,7 @@ As a developer I have collected a lot of resources to help me write code, unders
 
 ## Blockchain
 
+{% comment %})
 ### Presentations
 - [IBM Blockchain Point of View](http://ibm-blockchain-pot.github.io/docs/IBM-Blockchain-PoV.pdf)
 - [Blockchain Explained](http://ibm-blockchain-pot.github.io/docs/Blockchain-Explained-V5.04.pdf)
@@ -53,20 +54,20 @@ As a developer I have collected a lot of resources to help me write code, unders
 - [Blockchain Architected](http://ibm-blockchain-pot.github.io/docs/Blockchain-Architected-V2.02.pdf)
 - [Blockchain Explored](http://ibm-blockchain-pot.github.io/docs/Blockchain-Explored-v4.02.pdf)
 - [IBM Blockchain Platform Explained](http://ibm-blockchain-pot.github.io/docs/IBM-Blockchain-Platform-Explained-V1.07.pdf)
-
+{% endcomment %}
 ### Helpful Links
 #### General
 - [IBM Blockchain](http://www.ibm.com/blockchain)
 - [What is Blockchain](https://www.ibm.com/blockchain/what-is-blockchain.html)
 - [IBM and Hyperledger](https://www.ibm.com/blockchain/hyperledger.html)
 - [Hyperledger Composer](https://hyperledger.github.io/composer/)
-- [Hyperledger Composer Tutorials](https://hyperledger.github.io/composer/tutorials/tutorials.html)
+- [Hyperledger Composer Tutorials](https://hyperledger.github.io/composer/latest/tutorials/tutorials.html)
 - [Composer Playground](http://composer-playground.mybluemix.net)
-- [IBM Blockchain - Composer - Vehicle Lifecycle Demo](https://bluedemos.com/show/159)
+- [IBM Blockchain - Vehicle Lifecycle Demo](https://bluedemos.com/show/241)
 - [Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains](https://arxiv.org/abs/1801.10228v1)
 
 #### For Developers
-- [Hyperledger Composer Developer Tutorial](https://hyperledger.github.io/composer/tutorials/developer-tutorial.html)
+- [Hyperledger Composer Developer Tutorial](https://hyperledger.github.io/composer/latest/tutorials/developer-tutorial.html)
 - [IBM Blockchain Developer Sandbox](https://developer.ibm.com/blockchain/sandbox/)
 - [Blockchain on LinuxOne mainframe](https://developer.ibm.com/code/patterns/run-blockchain-technology-on-a-linux-mainframe/)
 - [IBM Blockchain Developer Center](https://developer.ibm.com/blockchain/)
