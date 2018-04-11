@@ -1,5 +1,5 @@
 ---
-title: IBM Blockchain Workshop
+
 ---
 
 ## Introduction
