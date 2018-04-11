@@ -1,9 +1,9 @@
 ---
-
+title: cloud4developers
 ---
 
 ## Introduction
-As a developer I have collected a lot of resources to help me write code, understand new technologies like [Watson](https://www.ibm.com/watson/) and [Blockchain](http://www.ibm.com/blockchain) and learn how to leverage the capabilities of the [IBM Cloud](https://www.ibm.com/cloud/) to develop cloud-native applications.  From the characteristics of a [Twelve Factor](https://12factor.net/) app, open source technologies like [docker](https://www.docker.com/) and [kubernetes](https://kubernetes.io/, the [IBM Cloud Garage Method](https://www.ibm.com/cloud/garage/) and patterns like [microservices architecture](https://www.ibm.com/cloud/garage/architectures/microservices/reference-architecture/), I've found excellent resources on all of these topics!
+As a developer I have collected a lot of resources to help me write code, understand new technologies like [Watson](https://www.ibm.com/watson/) and [Blockchain](http://www.ibm.com/blockchain) and learn how to leverage the capabilities of the [IBM Cloud](https://www.ibm.com/cloud/) to develop cloud-native applications.  From the characteristics of a [Twelve Factor](https://12factor.net/) app, open source technologies like [docker](https://www.docker.com/) and [kubernetes](https://kubernetes.io/), the [IBM Cloud Garage Method](https://www.ibm.com/cloud/garage/) and patterns like [microservices architecture](https://www.ibm.com/cloud/garage/architectures/microservices/reference-architecture/), I've found excellent resources on all of these topics!
 
 ## Contacts
 - Dave Wakeman [dwakeman@us.ibm.com](mailto:dwakeman@us.ibm.com?subject=IBM%20Blockchain%20Proof%20of%20Technology)
