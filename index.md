@@ -93,6 +93,9 @@ As a developer I have collected a lot of resources to help me write code, unders
 - [Hyperledger Community](https://hyperledger.github.io/composer/support/support-index.html)
 - [Blockchain Essentials Badge](https://developer.ibm.com/courses/all/blockchain-essentials/)
 
+### Tutorials and Samples
+- [Buid a blockchain insurance app](https://github.com/IBM/build-blockchain-insurance-app)
+
 ### Other interesting stuff
 - [Vehicle Lifecycle Demo](https://www.youtube.com/watch?v=cNvOQp8r0xo&t=244)
 - [Make your blockchain smart contracts smarter with business rules](https://www.ibm.com/developerworks/library/mw-1708-mery-blockchain/1708-mery.html)
