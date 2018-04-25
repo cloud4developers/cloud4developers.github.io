@@ -47,7 +47,7 @@ As a developer I have collected a lot of resources to help me write code, unders
 ## Watson
 
 - [Watson Accelerators](https://watsonaccelerators.mybluemix.net/portal/welcome)
-- Zero to Cognitive - a great tutorial with a [Redbook](https://www.redbooks.ibm.com/redbooks.nsf/redbookabstracts/crse0400.html?Open), [YouTube](https://www.youtube.com/watch?v=Jj7IFjd3FyI&list=PLnJzIOiv6cVTaS8k90R3T9AlS_kf5XWmX) videos and a [Github Repo](https://github.com/rddill-IBM/ZeroToCognitive)
+- Zero to Cognitive - a great tutorial with a [Redbook](https://www.redbooks.ibm.com/redbooks.nsf/redbookabstracts/crse0400.html?Open), [YouTube videos](https://www.youtube.com/watch?v=Jj7IFjd3FyI&list=PLnJzIOiv6cVTaS8k90R3T9AlS_kf5XWmX) and a [Github Repo](https://github.com/rddill-IBM/ZeroToCognitive)
 
 {% comment %}
 ## Locations
@@ -97,7 +97,7 @@ As a developer I have collected a lot of resources to help me write code, unders
 
 ### Tutorials and Samples
 - [Buid a blockchain insurance app](https://github.com/IBM/build-blockchain-insurance-app)
-- Zero to Blockcahin - Tutorial with a [Redbook](https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html?Open), [YouTube](https://www.youtube.com/watch?v=CgGX-BTYOwA&list=PLnJzIOiv6cVTjaJRtJ2srarhs-m4V3zs3) videos and 
+- Zero to Blockcahin - Tutorial with a [Redbook](https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html?Open), [YouTube videos](https://www.youtube.com/watch?v=CgGX-BTYOwA&list=PLnJzIOiv6cVTjaJRtJ2srarhs-m4V3zs3) and 
 [Github Repo](https://github.com/rddill-IBM/ZeroToBlockchain)
 
 
