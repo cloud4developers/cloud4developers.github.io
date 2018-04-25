@@ -14,7 +14,7 @@ As a developer I have collected a lot of resources to help me write code, unders
 - [IBM Code - Patterns](https://developer.ibm.com/code/patterns/)
 - [Kubernetes Patterns](https://developer.ibm.com/code/technologies/container-orchestration/)
 - [IBM Cloud App Service](https://console.bluemix.net/developer/appservice/dashboard) - A fast on-ramp for building cloud native apps
-
+- [IBM Cloud Garage Architecture Center](https://www.ibm.com/cloud/garage/architectures)
 
 ## Demos
 - [IBM Cloud Healthcare and Life Sciences Demonstration](https://bluedemos.com/show/133)
@@ -47,6 +47,11 @@ As a developer I have collected a lot of resources to help me write code, unders
 ## Watson
 
 - [Watson Accelerators](https://watsonaccelerators.mybluemix.net/portal/welcome)
+
+### Zero to Cognitive
+- [Redbook](https://www.redbooks.ibm.com/redbooks.nsf/redbookabstracts/crse0400.html?Open)
+- [YouTube](https://www.youtube.com/watch?v=Jj7IFjd3FyI&list=PLnJzIOiv6cVTaS8k90R3T9AlS_kf5XWmX)
+- [Github Repo](https://github.com/rddill-IBM/ZeroToCognitive)
 
 {% comment %}
 ## Locations
@@ -96,7 +101,11 @@ As a developer I have collected a lot of resources to help me write code, unders
 
 ### Tutorials and Samples
 - [Buid a blockchain insurance app](https://github.com/IBM/build-blockchain-insurance-app)
-- [Zero to Blockchain](https://github.com/rddill-IBM/ZeroToBlockchain)
+
+#### Zero to Blockcahin
+- [Redbook](https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html?Open)
+- [YouTube](https://www.youtube.com/watch?v=CgGX-BTYOwA&list=PLnJzIOiv6cVTjaJRtJ2srarhs-m4V3zs3)
+- [Github Repo](https://github.com/rddill-IBM/ZeroToBlockchain)
 
 
 ### Other interesting stuff
