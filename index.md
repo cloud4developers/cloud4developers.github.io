@@ -47,11 +47,7 @@ As a developer I have collected a lot of resources to help me write code, unders
 ## Watson
 
 - [Watson Accelerators](https://watsonaccelerators.mybluemix.net/portal/welcome)
-
-### Zero to Cognitive
-- [Redbook](https://www.redbooks.ibm.com/redbooks.nsf/redbookabstracts/crse0400.html?Open)
-- [YouTube](https://www.youtube.com/watch?v=Jj7IFjd3FyI&list=PLnJzIOiv6cVTaS8k90R3T9AlS_kf5XWmX)
-- [Github Repo](https://github.com/rddill-IBM/ZeroToCognitive)
+- Zero to Cognitive - a great experience with a [Redbook](https://www.redbooks.ibm.com/redbooks.nsf/redbookabstracts/crse0400.html?Open), [YouTube](https://www.youtube.com/watch?v=Jj7IFjd3FyI&list=PLnJzIOiv6cVTaS8k90R3T9AlS_kf5XWmX) videos and a [Github Repo](https://github.com/rddill-IBM/ZeroToCognitive)
 
 {% comment %}
 ## Locations
