@@ -96,6 +96,8 @@ As a developer I have collected a lot of resources to help me write code, unders
 
 ### Tutorials and Samples
 - [Buid a blockchain insurance app](https://github.com/IBM/build-blockchain-insurance-app)
+- [Zero to Blockchain](https://github.com/rddill-IBM/ZeroToBlockchain)
+
 
 ### Other interesting stuff
 - [Vehicle Lifecycle Demo](https://www.youtube.com/watch?v=cNvOQp8r0xo&t=244)
