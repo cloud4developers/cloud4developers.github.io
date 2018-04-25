@@ -98,7 +98,7 @@ As a developer I have collected a lot of resources to help me write code, unders
 ### Tutorials and Samples
 - [Buid a blockchain insurance app](https://github.com/IBM/build-blockchain-insurance-app)
 - Zero to Blockcahin - Tutorial with a [Redbook](https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html?Open), [YouTube](https://www.youtube.com/watch?v=CgGX-BTYOwA&list=PLnJzIOiv6cVTjaJRtJ2srarhs-m4V3zs3) video and 
-- [Github Repo](https://github.com/rddill-IBM/ZeroToBlockchain)
+[Github Repo](https://github.com/rddill-IBM/ZeroToBlockchain)
 
 
 ### Other interesting stuff
