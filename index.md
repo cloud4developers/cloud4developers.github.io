@@ -79,7 +79,7 @@ As a developer I have collected a lot of resources to help me write code, unders
 - [IBM and Hyperledger](https://www.ibm.com/blockchain/hyperledger.html)
 - [Hyperledger Composer](https://hyperledger.github.io/composer/)
 - [Hyperledger Composer Tutorials](https://hyperledger.github.io/composer/latest/tutorials/tutorials.html)
-- [Composer Playground](http://composer-playground.mybluemix.net)
+- [Composer Playground](https://blockchaindevelop.mybluemix.net)
 - [IBM Blockchain - Vehicle Lifecycle Demo](https://bluedemos.com/show/241)
 - [Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains](https://arxiv.org/abs/1801.10228v1)
 
