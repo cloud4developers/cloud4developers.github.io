@@ -105,5 +105,5 @@ As a developer I have collected a lot of resources to help me write code, unders
 ### Other interesting stuff
 - [Vehicle Lifecycle Demo](https://www.youtube.com/watch?v=cNvOQp8r0xo&t=244)
 - [Make your blockchain smart contracts smarter with business rules](https://www.ibm.com/developerworks/library/mw-1708-mery-blockchain/1708-mery.html)
-- [Lab Guide](http://ibm-blockchain-pot.github.io/docs/Blockchain-PoT-Lab-Workbook-v1.7.0.pdf)
+- [Lab Guide](https://cloud4developers.github.io/docs/Blockchain-PoT-Lab-Workbook-v1.7.0.pdf)
 
