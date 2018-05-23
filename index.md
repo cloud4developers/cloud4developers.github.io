@@ -15,6 +15,7 @@ As a developer I have collected a lot of resources to help me write code, unders
 - [Kubernetes Patterns](https://developer.ibm.com/code/technologies/container-orchestration/)
 - [IBM Cloud App Service](https://console.bluemix.net/developer/appservice/dashboard) - A fast on-ramp for building cloud native apps
 - [IBM Cloud Garage Architecture Center](https://www.ibm.com/cloud/garage/architectures)
+- [How to rapidly develop apps with microservices](https://www.ibm.com/blogs/bluemix/2018/04/know-developing-applications-microservices/)
 
 ## Demos
 - [IBM Cloud Healthcare and Life Sciences Demonstration](https://bluedemos.com/show/133)
@@ -96,11 +97,18 @@ As a developer I have collected a lot of resources to help me write code, unders
 - [Hyperledger Community](https://hyperledger.github.io/composer/support/support-index.html)
 - [Blockchain Essentials Badge](https://developer.ibm.com/courses/all/blockchain-essentials/)
 
+### Challenge Accepted: Developing a Blockchain Application with IBM Blockchain Platform Starter Plan
+- [Getting Started with the Starter Kit (1/6)](https://developer.ibm.com/tv/blockchain-innovators-getting-started-starter-kit/)
+- [Designing the Network and Using DevTools (2/6)](https://developer.ibm.com/tv/blockchain-innovators-designing-network-using-devtools/)
+- [Leveraging Code Samples (3/6)](https://developer.ibm.com/tv/blockchain-innovators-leveraging-code-samples/)
+- [Creating BNA files and Deploying Chaincode (4/6)](https://developer.ibm.com/tv/blockchain-innovators-creating-bna-files-and-deploying-chaincode/)
+- [Fireside Chat with Global Citizen CTO (5/6)](https://developer.ibm.com/tv/blockchain-innovators-fireside-chat-global-citizen-cto/)
+- [Creating a REST server and Deploying Starter (6/6)](https://developer.ibm.com/tv/blockchain-innovators-creating-rest-server-deploying-starter/)
+
 ### Tutorials and Samples
 - [Buid a blockchain insurance app](https://github.com/IBM/build-blockchain-insurance-app)
 - Zero to Blockcahin - Tutorial with a [Redbook](https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html?Open), [YouTube videos](https://www.youtube.com/watch?v=CgGX-BTYOwA&list=PLnJzIOiv6cVTjaJRtJ2srarhs-m4V3zs3) and 
 [Github Repo](https://github.com/rddill-IBM/ZeroToBlockchain)
-
 
 ### Other interesting stuff
 - [Vehicle Lifecycle Demo](https://www.youtube.com/watch?v=cNvOQp8r0xo&t=244)
