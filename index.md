@@ -61,7 +61,7 @@ As a developer I have collected a lot of resources to help me write code, unders
 
 ## Blockchain
 
-{% comment %}
+
 ### Presentations
 - [IBM Blockchain Point of View](http://ibm-blockchain-pot.github.io/docs/IBM-Blockchain-PoV.pdf)
 - [Blockchain Explained](http://ibm-blockchain-pot.github.io/docs/Blockchain-Explained-V5.04.pdf)
@@ -70,7 +70,7 @@ As a developer I have collected a lot of resources to help me write code, unders
 - [Blockchain Architected](http://ibm-blockchain-pot.github.io/docs/Blockchain-Architected-V2.02.pdf)
 - [Blockchain Explored](http://ibm-blockchain-pot.github.io/docs/Blockchain-Explored-v4.02.pdf)
 - [IBM Blockchain Platform Explained](http://ibm-blockchain-pot.github.io/docs/IBM-Blockchain-Platform-Explained-V1.07.pdf)
-{% endcomment %}
+
 
 ### General
 - [IBM Blockchain](http://www.ibm.com/blockchain)
@@ -81,6 +81,7 @@ As a developer I have collected a lot of resources to help me write code, unders
 - [Composer Playground](https://blockchaindevelop.mybluemix.net)
 - [IBM Blockchain - Vehicle Lifecycle Demo](https://bluedemos.com/show/241)
 - [Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains](https://arxiv.org/abs/1801.10228v1)
+- [Hyperledger Fabric (read the docs)](https://hyperledger-fabric.readthedocs.io/en/release-1.1/)
 
 ### For Developers
 - [Hyperledger Composer Developer Tutorial](https://hyperledger.github.io/composer/latest/tutorials/developer-tutorial.html)
