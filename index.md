@@ -88,6 +88,7 @@ As a developer I have collected a lot of resources to help me write code, unders
 - [IBM Blockchain Developer Sandbox](https://developer.ibm.com/blockchain/sandbox/)
 - [Develop in a cloud sandbox IBM Blockchain Platform](https://ibm-blockchain.github.io/)
 - [IBM Docs - Deploy to IBM Blockchain Platform Starter Plan](https://console.bluemix.net/docs/services/blockchain/develop_starter.html#deploying-a-business-networks-on-starter-plan)
+- [Deploy a blockchain business network to the cloud using the IBM Blockchain Starter Plan](https://www.ibm.com/developerworks/cloud/library/cl-deploy-blockchain-starter-plan-network/index.html)
 - [Blog on Deploying to IBM Blockchain Platform Starter Plan](https://hackernoon.com/deploy-a-business-network-on-free-ibm-blockchain-starter-plan-93fafb3dd997)
 - [Blockchain on LinuxOne mainframe](https://developer.ibm.com/code/patterns/run-blockchain-technology-on-a-linux-mainframe/)
 - [IBM Blockchain Developer Center](https://developer.ibm.com/blockchain/)
