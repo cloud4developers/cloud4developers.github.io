@@ -109,6 +109,7 @@ As a developer I have collected a lot of resources to help me write code, unders
 - [Build a blockchain insurance app](https://github.com/IBM/build-blockchain-insurance-app)
 - Zero to Blockcahin - Tutorial with a [Redbook](https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html?Open), [YouTube videos](https://www.youtube.com/watch?v=CgGX-BTYOwA&list=PLnJzIOiv6cVTjaJRtJ2srarhs-m4V3zs3) and 
 [Github Repo](https://github.com/rddill-IBM/ZeroToBlockchain)
+- [Develop an IoT asset tracking app using Blockchain](https://developer.ibm.com/code/patterns/develop-an-iot-asset-tracking-app-using-blockchain/)
 
 ### Other interesting stuff
 - [Vehicle Lifecycle Demo](https://www.youtube.com/watch?v=cNvOQp8r0xo&t=244)
