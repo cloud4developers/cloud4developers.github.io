@@ -96,6 +96,7 @@ As a developer I have collected a lot of resources to help me write code, unders
 - [DeveloperWorks Tutorial](https://www.ibm.com/developerworks/cloud/library/cl-model-test-your-blockchain-network-with-hyperledger-composer-playground/index.html?social_post=1136571756&fst=Learn)
 - [Hyperledger Community](https://hyperledger.github.io/composer/support/support-index.html)
 - [Blockchain Essentials Badge](https://developer.ibm.com/courses/all/blockchain-essentials/)
+- [IBM Blockchain foundation developer Badge](https://developer.ibm.com/courses/all/ibm-blockchain-foundation-developer/)
 
 ### Challenge Accepted: Developing a Blockchain Application with IBM Blockchain Platform Starter Plan
 - [Getting Started with the Starter Kit (1/6)](https://developer.ibm.com/tv/blockchain-innovators-getting-started-starter-kit/)
