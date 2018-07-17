@@ -20,6 +20,7 @@ As a developer I have collected a lot of resources to help me write code, unders
 ## Demos
 - [IBM Cloud Healthcare and Life Sciences Demonstration](https://bluedemos.com/show/133)
 - [IBM Cloud Featured Samples](https://ibm-cloud.github.io/#!/)
+- [Modernize and extend apps on IBM Cloud Kubernetes Service](https://github.com/IBM-Cloud/jpetstore-kubernetes)
 
 ## Tutorials and Labs
 - [IBM Cloud App Service - Learning resources](https://console.bluemix.net/developer/appservice/learning-resources)
