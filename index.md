@@ -10,11 +10,13 @@ As a developer I have collected a lot of resources to help me write code, unders
 
 
 ## General
+- [Gartner](https://www.gartner.com/doc/reprints?id=1-4U4HD0D&ct=180327&st=sg) - Why You Must Begin Delivering Cloud-Native Offerings Today, Not Tomorrow 
 - [IBM Code](https://developer.ibm.com/code/)
 - [IBM Code - Patterns](https://developer.ibm.com/code/patterns/)
 - [Kubernetes Patterns](https://developer.ibm.com/code/technologies/container-orchestration/)
 - [IBM Cloud App Service](https://console.bluemix.net/developer/appservice/dashboard) - A fast on-ramp for building cloud native apps
 - [IBM Cloud Garage Architecture Center](https://www.ibm.com/cloud/garage/architectures)
+- [IBM Cloud Garage Practices](https://www.ibm.com/cloud/garage/category/practices)
 - [How to rapidly develop apps with microservices](https://www.ibm.com/blogs/bluemix/2018/04/know-developing-applications-microservices/)
 
 ## Demos
@@ -30,6 +32,7 @@ As a developer I have collected a lot of resources to help me write code, unders
 
 ## DevOps
 ### Toolchains
+- Learn about [toolchains](https://www.ibm.com/cloud/garage/toolchains)
 - [Tutorial](https://www.ibm.com/cloud/garage/category/courses)
  
 ### Continuous Delivery
