@@ -86,6 +86,7 @@ As a developer I have collected a lot of resources to help me write code, unders
 - [IBM Blockchain - Vehicle Lifecycle Demo](https://bluedemos.com/show/241)
 - [Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains](https://arxiv.org/abs/1801.10228v1)
 - [Hyperledger Fabric (read the docs)](https://hyperledger-fabric.readthedocs.io/en/release-1.1/)
+- [Blockchain components in a network explained for developers](https://www.youtube.com/watch?v=sJaT2L99BUo)
 
 ### For Developers
 - [Hyperledger Composer Developer Tutorial](https://hyperledger.github.io/composer/latest/tutorials/developer-tutorial.html)
