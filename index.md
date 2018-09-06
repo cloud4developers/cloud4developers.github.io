@@ -35,7 +35,7 @@ As a developer I have collected a lot of resources to help me write code, unders
 - [Developing Node.js Applications on IBM Cloud](http://www.redbooks.ibm.com/abstracts/sg248406.html)
 - [Moving Microsoft Workloads to IBM Cloud](http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/redp5428.html?Open)
 - [Microservices from Theory to Practice: Creating Applications in IBM Bluemix Using the Microservices Approach](http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg248275.html?Open)
--[Evolve the Monolith to Microservices with Java and Node](http://www.redbooks.ibm.com/abstracts/sg248358.html?Open)
+- [Evolve the Monolith to Microservices with Java and Node](http://www.redbooks.ibm.com/abstracts/sg248358.html?Open)
 
 
 ## DevOps
