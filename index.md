@@ -134,3 +134,11 @@ As a developer I have collected a lot of resources to help me write code, unders
 - [Make your blockchain smart contracts smarter with business rules](https://www.ibm.com/developerworks/library/mw-1708-mery-blockchain/1708-mery.html)
 - [Lab Guide](https://cloud4developers.github.io/docs/Blockchain-PoT-Lab-Workbook-v1.8.1.pdf)
 
+
+## Pages
+<ul>
+{% for page in site.pages %}
+    <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+
+{% endfor %}
+</ul>
