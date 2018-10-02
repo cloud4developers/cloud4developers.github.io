@@ -1,5 +1,6 @@
 ---
 title: cloud4developers
+layout: default
 ---
 
 ## Introduction

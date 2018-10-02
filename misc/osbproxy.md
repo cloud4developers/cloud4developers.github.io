@@ -1,5 +1,5 @@
 ---
-title: cloud4developers
+title: OSB Proxy
 ---
 
 # Setting up an OSB Proxy
