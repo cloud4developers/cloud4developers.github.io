@@ -83,12 +83,13 @@ That's all we need to do in the web console.  Now we will switch to the command 
 
 ### Create the Proxy
 
-#### Install IBM Cloud CLI
+__Install IBM Cloud CLI__
+
 The proxy is created using a REST API, but first we need to get some information about your account from the IBM Cloud CLI.  Documentation for installing it can be found [here](https://console.bluemix.net/docs/cli/reference/ibmcloud/download_cli.html#install_use).
 
 To use the IBM Cloud CLI, open the appropriate tool on your laptop.  These instructions were written on a mac.
 
-#### Gather required information
+__Gather required information__
 
 Login to the IBM Cloud CLI by using this command:
 
@@ -137,7 +138,7 @@ Set another environment variable to the ID of your resource group from the `ibmc
 
 RGID=dbab516bf508474599c594b40193de03
 
-#### Creating the Proxy
+__Create the Proxy__
 
 You can create the Proxy in IBM Cloud using cURL, or your favorite REST API tool, such as Postman.
 
