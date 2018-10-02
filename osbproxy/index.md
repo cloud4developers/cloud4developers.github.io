@@ -158,4 +158,14 @@ Copy this JSON output and paste it in a note somewhere; you will need some of th
 
 ## Cloud Foundry Configuration
 
-Need to write these instructions....
+I believe the CLI command to register the broker in Cloud Foundry can be found [here](https://docs.cloudfoundry.org/services/managing-service-brokers.html#register-broker)
+
+It will be a command like this:
+
+`cf create-service-broker mybrokername someuser somethingsecure https://mybroker.example.com/`
+
+In that command you would replace `mybrokername` with a name of your choice.
+
+`someuser` should be set to the `auth_username` in the response JSON from the API call that created the broker proxy.  In the example above, `someuser` would be `apikey`.  The value for `somethingsecure` would be the value of `auth_password`.  The URL in the command is the `proxy_broker_url`.
+
+*__Note:__ This section will be updated once confirmed.*
