@@ -81,12 +81,15 @@ As a developer I have collected a lot of resources to help me write code, unders
 
 ### Presentations
 - [IBM Blockchain Point of View](http://cloud4developers.github.io/docs/IBM-Blockchain-PoV.pdf)
-- [Blockchain Explained](http://cloud4developers.github.io/docs/Blockchain-Explained-V5.04.pdf)
+- [Blockchain Explained](https://www.slideshare.net/MattLucas3/blockchain-explained-v513)
 - [Vehicle Lifecycle Demo Intro](http://cloud4developers.github.io/docs/Vehicle-Lifecycle-Demo-Intro.pdf)
-- [Blockchain Composed](http://cloud4developers.github.io/docs/Blockchain-Composed-V2.07.pdf)
-- [Blockchain Architected](http://cloud4developers.github.io/docs/Blockchain-Architected-V2.02.pdf)
-- [Blockchain Explored](http://cloud4developers.github.io/docs/Blockchain-Explored-v4.02.pdf)
-- [IBM Blockchain Platform Explained](http://ibm-blockchain-pot.github.io/docs/IBM-Blockchain-Platform-Explained-V1.07.pdf)
+- [Blockchain Composer Explored](https://www.slideshare.net/MattLucas3/blockchain-hyperledger-composer-explored-v212)
+- [Blockchain Architected](https://www.slideshare.net/MattLucas3/blockchain-architectures-explored-v30)
+- [Blockchain Explored](https://www.slideshare.net/MattLucas3/blockchain-hyperledger-fabric-explored-v45)
+- [Solutions Explained](https://www.slideshare.net/MattLucas3/ibm-blockchain-solutions-explained-v03)
+- [IBM Blockchain Platform Explained](https://www.slideshare.net/MattLucas3/ibm-blockchain-platform-explained-v113)
+- [What's New in Blockchain Technology](https://www.slideshare.net/MattLucas3/blockchain-whats-new-in-hyperledger-fabric-oct-2018)
+- [IBM Cloud Garage with Blockchain](https://www.slideshare.net/MattLucas3/blockchain-ibm-cloud-garages-explained-v11)
 
 
 ### General
