@@ -104,6 +104,7 @@ As a developer I have collected a lot of resources to help me write code, unders
 - [Hyperledger Fabric (read the docs)](https://hyperledger-fabric.readthedocs.io/en/release-1.1/)
 - [Blockchain components in a network explained for developers](https://www.youtube.com/watch?v=sJaT2L99BUo)
 - [How to be a Blockchain Network Founder](https://www.ibm.com/account/reg/signup?formid=urx-31528)
+- [Forrester Total Economic Impact (TEI) Report](https://www.ibm.com/account/reg/us-en/signup?formid=urx-33572)
 
 ### For Developers
 - [Hyperledger Composer Developer Tutorial](https://hyperledger.github.io/composer/latest/tutorials/developer-tutorial.html)
