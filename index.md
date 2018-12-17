@@ -35,6 +35,7 @@ As a developer I have collected a lot of resources to help me write code, unders
 - [IBM Cloud Garage - Courses](https://www.ibm.com/cloud/garage/category/courses)
 
 ## Books
+- [Phippy Goes to the Zoo: a Kubernetes Story](https://www.cncf.io/phippy-goes-to-the-zoo-book/)
 - [Essentials of Application Development on IBM Cloud](http://www.redbooks.ibm.com/redpieces/abstracts/sg248374.html)
 - [Developing Node.js Applications on IBM Cloud](http://www.redbooks.ibm.com/abstracts/sg248406.html)
 - [Moving Microsoft Workloads to IBM Cloud](http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/redp5428.html?Open)
