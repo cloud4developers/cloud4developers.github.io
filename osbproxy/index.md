@@ -158,7 +158,7 @@ If the command works you will see some output like this:
 
 ```"id":"crn:v1:bluemix:public:ibmcloud-platform::a/9d5d528aa786af01****************::osbbroker:df543302-****-****-****-************","crn":"crn:v1:bluemix:public:ibmcloud-platform::a/9d5d528aa786af01****************::osbbroker:df543302-****-****-****-************","guid":"df543302-70b3-4817-9b96-2f1b3490272c","url":"/v2/resource_brokers/df543302-****-****-****-************","auth_username":"apikey","auth_password":"********-****-****-****-************","proxy_broker_url":"https://resource-controller.bluemix.net/ibmcloud-platform/df543302-****-****-****-************","resource_group_crn":"crn:v1:bluemix:public:resource-controller::a/9d5d528aa786af01****************::resource-group:dbab516bf508474599c594b40193de03","account_id":"9d5d528aa786af01****************","serviceid_crn":"crn:v1:bluemix:public:iam-identity::a/9d5d528aa786af01****************::serviceid:ServiceId-6765c956-****-****-****-4f909d5a190f"}```
 
-Copy this JSON output and paste it in a note somewhere; you will need some of the fields later when you create the service broker in Cloud Foundry.
+Copy this JSON output from your terminal window and paste it in a note somewhere; you will need some of the fields later when you create the service broker in Cloud Foundry.
 
 
 
