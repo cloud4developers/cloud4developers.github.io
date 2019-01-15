@@ -165,7 +165,7 @@ Copy this JSON output from your terminal window and paste it in a note somewhere
 
 ## Cloud Foundry Configuration
 
-I believe the CLI command to register the broker in Cloud Foundry can be found [here](https://docs.cloudfoundry.org/services/managing-service-brokers.html#register-broker)
+I believe the CLI command to [register the broker](https://docs.cloudfoundry.org/services/managing-service-brokers.html#register-broker) in Cloud Foundry can be found in the Cloud Foundry documentation.
 
 It will be a command like this:
 
