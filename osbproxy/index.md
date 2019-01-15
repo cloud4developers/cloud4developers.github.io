@@ -32,6 +32,7 @@ Click the `Confirm Account` button.  You should see this in your browser:
 
 Now you have an IBM Cloud Account!!  Click the `Log in` button to login and check it out!  Review the account privacy policies and click the `Proceed` button if you agree.
 
+<!--
 ### Upgrade to a Pay-As-You-Go Account
 
 Click on your avatar at the top right and then click `Upgrade Account`.
@@ -39,6 +40,7 @@ Click on your avatar at the top right and then click `Upgrade Account`.
 ![Upgrade Account](./images/UpgradeAccount.png)
 
 Provide the required information to upgrade your account.
+-->
 
 ### Create a new resource group
 
