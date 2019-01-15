@@ -97,10 +97,6 @@ As a developer I have collected a lot of resources to help me write code, unders
 - [IBM Blockchain](http://www.ibm.com/blockchain)
 - [What is Blockchain](https://www.ibm.com/blockchain/what-is-blockchain.html)
 - [IBM and Hyperledger](https://www.ibm.com/blockchain/hyperledger.html)
-- [Hyperledger Composer](https://hyperledger.github.io/composer/)
-- [Hyperledger Composer Tutorials](https://hyperledger.github.io/composer/latest/tutorials/tutorials.html)
-- [Composer Playground](https://blockchaindevelop.mybluemix.net)
-- [IBM Blockchain - Vehicle Lifecycle Demo](https://bluedemos.com/show/241)
 - [Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains](https://arxiv.org/abs/1801.10228v1)
 - [Hyperledger Fabric (read the docs)](https://hyperledger-fabric.readthedocs.io/en/release-1.1/)
 - [Blockchain components in a network explained for developers](https://www.youtube.com/watch?v=sJaT2L99BUo)
@@ -108,7 +104,8 @@ As a developer I have collected a lot of resources to help me write code, unders
 - [Forrester Total Economic Impact (TEI) Report](https://www.ibm.com/account/reg/us-en/signup?formid=urx-33572)
 
 ### For Developers
-- [Hyperledger Composer Developer Tutorial](https://hyperledger.github.io/composer/latest/tutorials/developer-tutorial.html)
+- [Develop a smart contract with the IBM Blockchain Platform VSCode extension](https://developer.ibm.com/tutorials/ibm-blockchain-platform-vscode-smart-contract/)
+- [Run a commercial paper smart contract with the IBM Blockchain VSCode extension](https://developer.ibm.com/tutorials/run-commercial-paper-smart-contract-with-ibm-blockchain-vscode-extension/)
 - [IBM Blockchain Developer Sandbox](https://developer.ibm.com/blockchain/sandbox/)
 - [Develop in a cloud sandbox IBM Blockchain Platform](https://ibm-blockchain.github.io/)
 - [IBM Docs - Deploy to IBM Blockchain Platform Starter Plan](https://console.bluemix.net/docs/services/blockchain/develop_starter.html#deploying-a-business-networks-on-starter-plan)
