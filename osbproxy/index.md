@@ -111,12 +111,14 @@ This should produce the following output:
 
 ```
 Name:                     osbproxy   
-Account ID:               9d5d528aa786af01ce99593a827cd68a   
-ID:                       dbab516bf508474599c594b40193de03   
+Account ID:               9d5d528aa***********************   
+ID:                          
 Default Resource Group:   false   
 State:                    ACTIVE   
 Quota:                    Pay-as-you-go Quota   
 ```
+
+_**Note**: The actual value has been hidden with asterisks in this document.  Your value will not contain any asterisks._
 
 The value you will need later is the `ID` field.
 
@@ -138,7 +140,9 @@ BROKERNAME=dw-osb-proxy-01
 
 Set another environment variable to the ID of your resource group from the `ibmcloud resource group` command you ran above.  For example:
 
-RGID=dbab516bf508474599c594b40193de03
+RGID=dbab516bf***********************
+
+_**Note**: The actual value has been hidden with asterisks in this document.  Your value will not contain any asterisks._
 
 __Create the Proxy__
 
@@ -152,7 +156,7 @@ curl -X POST https://resource-controller.bluemix.net/v2/resource_brokers -H 'aut
 
 If the command works you will see some output like this:
 
-```"id":"crn:v1:bluemix:public:ibmcloud-platform::a/9d5d528aa786af01ce99593a827cd68a::osbbroker:df543302-70b3-4817-9b96-2f1b3490272c","crn":"crn:v1:bluemix:public:ibmcloud-platform::a/9d5d528aa786af01ce99593a827cd68a::osbbroker:df543302-70b3-4817-9b96-2f1b3490272c","guid":"df543302-70b3-4817-9b96-2f1b3490272c","url":"/v2/resource_brokers/df543302-70b3-4817-9b96-2f1b3490272c","auth_username":"apikey","auth_password":"********-****-****-****-************","proxy_broker_url":"https://resource-controller.bluemix.net/ibmcloud-platform/df543302-70b3-4817-9b96-2f1b3490272c","resource_group_crn":"crn:v1:bluemix:public:resource-controller::a/9d5d528aa786af01ce99593a827cd68a::resource-group:dbab516bf508474599c594b40193de03","account_id":"9d5d528aa786af01ce99593a827cd68a","serviceid_crn":"crn:v1:bluemix:public:iam-identity::a/9d5d528aa786af01ce99593a827cd68a::serviceid:ServiceId-6765c956-daba-4b81-8d99-4f909d5a190f"}```
+```"id":"crn:v1:bluemix:public:ibmcloud-platform::a/9d5d528aa786af01****************::osbbroker:df543302-****-****-****-************","crn":"crn:v1:bluemix:public:ibmcloud-platform::a/9d5d528aa786af01****************::osbbroker:df543302-****-****-****-************","guid":"df543302-70b3-4817-9b96-2f1b3490272c","url":"/v2/resource_brokers/df543302-****-****-****-************","auth_username":"apikey","auth_password":"********-****-****-****-************","proxy_broker_url":"https://resource-controller.bluemix.net/ibmcloud-platform/df543302-****-****-****-************","resource_group_crn":"crn:v1:bluemix:public:resource-controller::a/9d5d528aa786af01****************::resource-group:dbab516bf508474599c594b40193de03","account_id":"9d5d528aa786af01****************","serviceid_crn":"crn:v1:bluemix:public:iam-identity::a/9d5d528aa786af01****************::serviceid:ServiceId-6765c956-****-****-****-4f909d5a190f"}```
 
 Copy this JSON output and paste it in a note somewhere; you will need some of the fields later when you create the service broker in Cloud Foundry.
 
