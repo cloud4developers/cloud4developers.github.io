@@ -106,27 +106,17 @@ As a developer I have collected a lot of resources to help me write code, unders
 ### For Developers
 - [Develop a smart contract with the IBM Blockchain Platform VSCode extension](https://developer.ibm.com/tutorials/ibm-blockchain-platform-vscode-smart-contract/)
 - [Run a commercial paper smart contract with the IBM Blockchain VSCode extension](https://developer.ibm.com/tutorials/run-commercial-paper-smart-contract-with-ibm-blockchain-vscode-extension/)
-- [IBM Blockchain Developer Sandbox](https://developer.ibm.com/blockchain/sandbox/)
 - [Develop in a cloud sandbox IBM Blockchain Platform](https://ibm-blockchain.github.io/)
 - [IBM Docs - Deploy to IBM Blockchain Platform Starter Plan](https://console.bluemix.net/docs/services/blockchain/develop_starter.html#deploying-a-business-networks-on-starter-plan)
-- [Deploy a blockchain business network to the cloud using the IBM Blockchain Starter Plan](https://www.ibm.com/developerworks/cloud/library/cl-deploy-blockchain-starter-plan-network/index.html)
 - [Blog on Deploying to IBM Blockchain Platform Starter Plan](https://hackernoon.com/deploy-a-business-network-on-free-ibm-blockchain-starter-plan-93fafb3dd997)
 - [Blockchain on LinuxOne mainframe](https://developer.ibm.com/code/patterns/run-blockchain-technology-on-a-linux-mainframe/)
 - [IBM Blockchain Developer Center](https://developer.ibm.com/blockchain/)
 - [Blockchain Innovators Series on DeveloperWorks TV](https://developer.ibm.com/tv/blockchain-innovators/)
-- [DeveloperWorks Tutorial](https://www.ibm.com/developerworks/cloud/library/cl-model-test-your-blockchain-network-with-hyperledger-composer-playground/index.html?social_post=1136571756&fst=Learn)
 - [Hyperledger Community](https://hyperledger.github.io/composer/support/support-index.html)
 - [Blockchain Essentials Badge](https://developer.ibm.com/courses/all/blockchain-essentials/)
 - [IBM Blockchain foundation developer Badge](https://developer.ibm.com/courses/all/ibm-blockchain-foundation-developer/)
 - [Call For Code: Dave Wakeman hands-on with Hyperledger Fabric](https://youtu.be/sBg9R0r_7oA)
 
-### Challenge Accepted: Developing a Blockchain Application with IBM Blockchain Platform Starter Plan
-- [Getting Started with the Starter Kit (1/6)](https://developer.ibm.com/tv/blockchain-innovators-getting-started-starter-kit/)
-- [Designing the Network and Using DevTools (2/6)](https://developer.ibm.com/tv/blockchain-innovators-designing-network-using-devtools/)
-- [Leveraging Code Samples (3/6)](https://developer.ibm.com/tv/blockchain-innovators-leveraging-code-samples/)
-- [Creating BNA files and Deploying Chaincode (4/6)](https://developer.ibm.com/tv/blockchain-innovators-creating-bna-files-and-deploying-chaincode/)
-- [Fireside Chat with Global Citizen CTO (5/6)](https://developer.ibm.com/tv/blockchain-innovators-fireside-chat-global-citizen-cto/)
-- [Creating a REST server and Deploying Starter (6/6)](https://developer.ibm.com/tv/blockchain-innovators-creating-rest-server-deploying-starter/)
 
 ### Tutorials and Samples
 - [Build a blockchain insurance app](https://github.com/IBM/build-blockchain-insurance-app)
