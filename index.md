@@ -116,7 +116,8 @@ As a developer I have collected a lot of resources to help me write code, unders
 - [Blockchain Essentials Badge](https://developer.ibm.com/courses/all/blockchain-essentials/)
 - [IBM Blockchain foundation developer Badge](https://developer.ibm.com/courses/all/ibm-blockchain-foundation-developer/)
 - [Call For Code: Dave Wakeman hands-on with Hyperledger Fabric](https://youtu.be/sBg9R0r_7oA)
-
+- Learn how to [Use the IBM Blockchain Platform for a full fabric deployment](https://developer.ibm.com/tutorials/ibm-blockchain-platform-for-icp-full-fabric-deployment/)
+- Learn how to [Operate a distributed peer on IBM Blockchain Platform](https://developer.ibm.com/tutorials/operate-distributed-peer-on-ibm-blockchain-platform/)
 
 ### Tutorials and Samples
 - [Build a blockchain insurance app](https://github.com/IBM/build-blockchain-insurance-app)
