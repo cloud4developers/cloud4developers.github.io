@@ -120,6 +120,7 @@ As a developer I have collected a lot of resources to help me write code, unders
 - Learn how to [Operate a distributed peer on IBM Blockchain Platform](https://developer.ibm.com/tutorials/operate-distributed-peer-on-ibm-blockchain-platform/)
 
 ### Tutorials and Samples
+- Hyperledger Fabric [Commercial Paper](https://hyperledger-fabric.readthedocs.io/en/release-1.4/tutorial/commercial_paper.html) tutorial
 - [Build a blockchain insurance app](https://github.com/IBM/build-blockchain-insurance-app)
 - Zero to Blockcahin - Tutorial with a [Redbook](https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html?Open), [YouTube videos](https://www.youtube.com/watch?v=CgGX-BTYOwA&list=PLnJzIOiv6cVTjaJRtJ2srarhs-m4V3zs3) and 
 [Github Repo](https://github.com/rddill-IBM/ZeroToBlockchain)
