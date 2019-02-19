@@ -118,6 +118,7 @@ As a developer I have collected a lot of resources to help me write code, unders
 - [Call For Code: Dave Wakeman hands-on with Hyperledger Fabric](https://youtu.be/sBg9R0r_7oA)
 - Learn how to [Use the IBM Blockchain Platform for a full fabric deployment](https://developer.ibm.com/tutorials/ibm-blockchain-platform-for-icp-full-fabric-deployment/)
 - Learn how to [Operate a distributed peer on IBM Blockchain Platform](https://developer.ibm.com/tutorials/operate-distributed-peer-on-ibm-blockchain-platform/)
+- [Java Chaincode in Hyperledger Fabric](https://medium.com/@aleksobol/explained-java-chaincode-in-hyperledger-fabric-fc63fccc84a3)
 
 ### Tutorials and Samples
 - Hyperledger Fabric [Commercial Paper](https://hyperledger-fabric.readthedocs.io/en/release-1.4/tutorial/commercial_paper.html) tutorial
