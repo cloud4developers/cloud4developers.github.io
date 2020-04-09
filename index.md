@@ -33,6 +33,15 @@ As a developer I have collected a lot of resources to help me write code, unders
 - [IBM Cloud Tutorials](https://console.bluemix.net/docs/tutorials/index.html#tutorials)
 - [IBM Code - How-tos](https://developer.ibm.com/code/howtos)
 - [IBM Cloud Garage - Courses](https://www.ibm.com/cloud/garage/category/courses)
+- [Docker for Beginners](https://docker-curriculum.com/)
+- [Creating a Red Hat OpenShift on IBM Cloud cluster](https://cloud.ibm.com/docs/openshift?topic=openshift-openshift_tutorial)
+- [IBM Cloud Kubernetes Coder Dojo Guestbook Lab](https://digidevcon.gitbook.io/kubernetes-coderdojo/)
+- [Deploy a Vue.js application on IBM Cloud with a CI/CD Pipeline](https://developer.ibm.com/tutorials/deploy-a-vuejs-application-on-ibm-cloud/)
+- [PHP on IBM Cloud Lab](https://cloud.ibm.com/docs/runtimes/php?topic=PHP-getting_started)
+- [Build a Cloud Ready Express.js Application on IBM Cloud](https://developer.ibm.com/tutorials/deploy-cloud-native-expressjs-app-to-a-hosted-)
+- [Scalable Web Application on OpenShift](https://cloud.ibm.com/docs/tutorials?topic=solution-tutorials-scalable-webapp-)
+- [Control Access to Cloud Resources (IAM)](https://developer.ibm.com/tutorials/use-iam-access-groups-to-effectively-manage-)
+
 
 ## Books
 - [Phippy Goes to the Zoo: a Kubernetes Story](https://www.cncf.io/phippy-goes-to-the-zoo-book/)
